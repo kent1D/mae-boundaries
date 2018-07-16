@@ -87,8 +87,8 @@ Madrid,Madrid,Madrid,مدريد,ambassade,1,40.4167047,-3.7035825,ES,yes,,
 Barcelona,Barcelone,Barcelona,برشلونة,consulat_general,4,41.3828939,2.1774322,ES,no,,
 Bilbao,Bilbao,Bilbao,بلباو,consulat_general,4,43.2629489,-2.9349459,ES,no,,
 Sevilla,Séville,Seville,اشبيلية,consulat_general,4,37.3886303,-5.9953171,ES,no,,
-València,Valence,Valencia,فالنسيا,institut_francais,7,39.46990,-0.37689,ES,no,,Q8818
-Zaragoza,Saragosse,Zaragoza,سرقسطة,institut_francais,7,41.65213,-0.88188,ES,no,,Q10305
+València,Valence,Valencia,فالنسيا,institut_francais_antenne,7,39.46990,-0.37689,ES,no,,Q8818
+Zaragoza,Saragosse,Zaragoza,سرقسطة,institut_francais_antenne,7,41.65213,-0.88188,ES,no,,Q10305
 አዲስ አበባ,Addis-Abeba,Addis Ababa,أديس أبابا,ambassade,1,9.0107934,38.7612525,ET,yes,S,
 Helsinki,Helsinki,Helsinki,هلسنكي,ambassade,1,60.1674086,24.9425683,FI,yes,,
 Suva,Suva,Suva,سوفا,ambassade,1,-18.1415884,178.4421662,FJ,yes,,
@@ -129,6 +129,8 @@ Reykjavík,Reykjavík,Reykjavik,ريكيافيك,ambassade,1,64.145981,-21.94223
 Roma,Rome,Rome,روما,ambassade,1,41.8933203,12.4829321,IT,yes,,
 Milano,Milan,Milan,ميلانو,consulat_general,4,45.4667971,9.1904984,IT,no,,
 Napoli,Naples,Naples,نابولي,consulat_general,4,40.8359336,14.2487826,IT,no,,
+Firenze,Florence,Florence,فلورنسا,institut_francais,7,43.76987,11.25463,IT,no,,Q2044
+Palermo,Palerme,Palermo,باليرمو,institut_francais,7,38.11123,13.35151,IT,no,,Q2656
 Kingston,Kingston,Kingston,كينغستون,ambassade,1,17.97121,-76.79375,JM,yes,S,
 عمان‎,Amman,Amman,عمان,ambassade,1,31.9515694,35.9239625,JO,yes,SE,
 東京,Tokyo,Tokyo,طوكيو,ambassade,1,35.6828378,139.7589667,JP,yes,,
