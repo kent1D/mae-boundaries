@@ -189,6 +189,7 @@ Den Haag,La Haye,The Hague,لاهاي,ambassade,1,52.0799838,4.3113461,NL,yes,S,
 Amsterdam,Amsterdam,Amsterdam,أمستردام,consulat_general,4,52.37276,4.89360,NL,yes,SE,
 Groningen,Groningue,Groningen,خرونينغن,institut_francais_antenne,7,53.21907,6.56801,NL,yes,,Q749
 Oslo,Oslo,Oslo,أوسلو,ambassade,1,59.9132694,10.7391112,NO,yes,S,
+Stavanger,Stavanger,Stavanger,ستافانغر,institut_francais_antenne,7,58.96804,5.73247,NO,no,,Q25416
 Kathmandu,Katmandou,Kathmandu,كاثماندو,ambassade,1,27.708796,85.320244,NP,yes,S,
 Yaren,Yaren,Yaren,ضاحية يارين,capitale,3,-0.5477,166.920867,NR,yes,,Q31026
 Wellington,Wellington,Wellington,ويلينغتون,ambassade,1,-41.2887639,174.7772239,NZ,yes,,
@@ -210,6 +211,8 @@ Cluj-Napoca,Cluj-Napoca,Cluj-Napoca,كلوج-نابوكا,institut_francais_ante
 Iași,Iași,Iași,ياش,institut_francais_antenne,7,47.16149,27.58311,RO,no,,Q46852
 Timisoara,Timișoara,Timișoara,تيميشوارا,institut_francais_antenne,7,45.75383,21.22481,RO,no,,Q83404
 Београд,Belgrade,Belgrade,بلغراد,ambassade,1,44.8178131,20.4568974,RS,yes,,
+Ниш,Niš,Niš,نيش,institut_francais_antenne,7,43.32150,21.89573,RS,no,,Q129259
+Нови Сад,Novi Sad,Novi Sad,نوفي ساد,institut_francais_antenne,7,45.25513,19.84424,RS,no,,Q55630
 Москва,Moscou,Moscow,موسكو,ambassade,1,55.7507178,37.6176606,RU,yes,,
 Екатеринбург,Ekaterinbourg,Yekaterinburg,يكاترينبورغ,consulat_general,4,56.839104,60.60825,RU,no,,
 Санкт-Петербург,Saint-Pétersbourg,Saint Petersburg,سانت بطرسبرغ,consulat_general,4,59.938732,30.316229,RU,no,,
