@@ -12,7 +12,9 @@ Wien,Vienne,Vienna,فيينا,ambassade,1,48.2083537,16.3725042,AT,yes,W,
 Canberra,Canberra,Canberra,كانبرا,ambassade,1,-35.2975906,149.1012676,AU,yes,N,
 Sydney,Sydney,Sydney,سيدني,consulat_general,4,-33.87298,151.20607,AU,no,NW,
 Bakı,Bakou,Baku,باكو,ambassade,1,40.3754434,49.8326748,AZ,yes,,
-Sarajevo,Sarajevo,Sarajevo,سراييفو,ambassade,1,43.8519774,18.3866868,BA,yes,,
+Sarajevo,Sarajevo,Sarajevo,سراييفو,ambassade,1,43.8519774,18.3866868,BA,yes,,Q11194
+Banja Luka,Banja Luka,Banja Luka,بانيا لوكا,institut_francais_antenne,7,44.77198,17.18989,BA,no,,Q131127
+Mostar,Mostar,Mostar,موستار,institut_francais_antenne,7,43.34161,17.80211,BA,no,,Q93347
 Bridgetown,Bridgetown,Bridgetown,بريدج تاون,capitale,3,13.1020025828,-59.6165267351,BB,yes,,Q36168
 ঢাকা,Dacca,Dhaka,دكا,ambassade,1,23.7593572,90.3788136,BD,yes,,
 Bruxelles - Brussel,Bruxelles,Brussels,بروكسل,ambassade,1,50.8465573,4.351697,BE,yes,N,
