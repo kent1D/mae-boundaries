@@ -175,12 +175,19 @@ Vilnius,Vilnius,Vilnius,فيلنيوس,ambassade,1,54.6870458,25.2829111,LT,yes,
 Luxembourg,Luxembourg,Luxembourg,لوكسمبورغ,ambassade,1,49.6112768,6.129799,LU,yes,N,
 Rīga,Riga,Riga,ريغا,ambassade,1,56.9493977,24.1051846,LV,yes,,
 طرابلس,Tripoli,Tripoli,طرابلس,ambassade,1,32.896672,13.1777923,LY,yes,S,Q3579
-Rabat ⵔⴱⴰⵟ الرباط,Rabat,Rabat,الرباط,ambassade,1,34.022405,-6.834543,MA,yes,,
-Agadir ⴰⴳⴰⴷⵉⵔ أگادیر,Agadir,Agadir,أكادير,consulat_general,4,30.4211144,-9.5830626,MA,no,,
-Casablanca ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,Casablanca,Casablanca,الدار البيضاء,consulat_general,4,33.5950627,-7.6187768,MA,no,,
-Fès ⴼⴰⵙ فاس,Fès,Fez,فاس,consulat_general,4,34.0346534,-5.0161926,MA,no,,
-Marrakech ⵎⵕⵕⴰⴽⵛ مراكش,Marrakech,Marrakesh,مراكش,consulat_general,4,31.6259901,-7.9886083,MA,no,,
-Tanger ⵟⴰⵏⵊⴰ طنجة,Tanger,Tangier,طنجة,consulat_general,4,35.777103,-5.803792,MA,no,SE,
+Rabat ⵔⴱⴰⵟ الرباط,Rabat,Rabat,الرباط,ambassade,1,34.022405,-6.834543,MA,yes,S,Q3551
+Agadir ⴰⴳⴰⴷⵉⵔ أگادیر,Agadir,Agadir,أكادير,consulat_general,4,30.4211144,-9.5830626,MA,no,,Q170525
+Casablanca ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,Casablanca,Casablanca,الدار البيضاء,consulat_general,4,33.5950627,-7.6187768,MA,no,NW,Q7903
+Fès ⴼⴰⵙ فاس,Fès,Fes,فاس,consulat_general,4,34.0346534,-5.0161926,MA,no,,Q80985
+Marrakech ⵎⵕⵕⴰⴽⵛ مراكش,Marrakech,Marrakesh,مراكش,consulat_general,4,31.6259901,-7.9886083,MA,no,,Q101625
+Tanger ⵟⴰⵏⵊⴰ طنجة,Tanger,Tangier,طنجة,consulat_general,4,35.777103,-5.803792,MA,no,SW,Q126148
+El Jadida ⵊⴷⵉⴷⴰ الجديدة,El Jadida,El Jadida,الجديدة,institut_francais_antenne,7,33.24333,-8.49884,MA,no,S,Q219583
+Kénitra ⵇⵏⵉⵟⵔⴰ القنيطرة,Kénitra,Kenitra,القنيطرة,institut_francais_antenne,7,34.26457,-6.57017,MA,no,,Q478207
+Essaouira ⵚⵚⵡⵉⵕⴰ الصويرة,Essaouira,Essaouira,الصويرة,institut_francais_antenne,7,31.51183,-9.76209,MA,no,,Q216939
+Meknès ⴰⵎⴽⵏⴰⵙ مكناس,Meknès,Meknès,مكناس,institut_francais_antenne,7,33.89781,-5.53198,MA,no,,Q178663
+Oujda ⵡⵊⴷⴰ وجدة‎,Oujda,Oujda,وجدة‎,institut_francais_antenne,7,34.67787,-1.92931,MA,no,,Q193802
+Tétouan ⵜⵉⵟⵟⴰⵡⵉⵏ تطوان,Tétouan,Tétouan,تطوان,institut_francais_antenne,7,35.57017,-5.37428,MA,no,,Q185157
+Safi ⴰⵙⴼⵉ آسفي,Safi,Safi,آسفي,alliance_francaise,8,32.29942,-9.23953,MA,no,,Q183405
 Monaco,Monaco,Monaco,موناكو,ambassade,1,43.7311424,7.4197576,MC,yes,N,Q235
 Chișinău,Chisinau,Kishinev,كيشيناو,ambassade,1,47.0122737,28.8605936,MD,yes,,
 Podgorica,Podgorica,Podgorica,بودغوريتسا,ambassade,1,42.4415238,19.2621081,ME,yes,NW,Q23564
