@@ -103,8 +103,10 @@ Accra,Accra,Accra,أكرا,ambassade,1,5.5600141,-0.2057437,GH,yes,NW,
 Banjul,Banjul,Banjul,بانجول,capitale,3,13.4538764603,-16.5917014892,GM,yes,S,Q3726
 Conakry,Conakry,Conakry,كوناكري,ambassade,1,9.5170602,-13.6998434,GN,yes,,
 Malabo,Malabo,Malabo,مالابو,ambassade,1,3.752828,8.780061,GQ,yes,N,
-Αθήνα,Athènes,Athens,أثينا,ambassade,1,37.9841493,23.7279843,GR,yes,,
-Θεσσαλονίκη,Thessalonique,Thessaloniki,سالونيك,consulat_general,4,40.6403167,22.9352716,GR,no,,
+Αθήνα,Athènes,Athens,أثينا,ambassade,1,37.9841493,23.7279843,GR,yes,,Q1524
+Θεσσαλονίκη,Thessalonique,Thessaloniki,سالونيك,consulat_general,4,40.6403167,22.9352716,GR,no,,Q17151
+Λάρισα,Larissa,Larissa,لاريسا,institut_francais_antenne,7,39.63831,22.41607,GR,no,,Q178405
+Πάτρα,Patras,Patras,باتراس,institut_francais_antenne,,38.24624,21.73414,GR,no,,Q133123
 Ciudad de Guatemala,Guatemala,Guatemala City,مدينة غواتيمالا,ambassade,1,14.6417889,-90.5132239,GT,yes,SW,
 Bissau,Bissau,Bissau,بيساو,ambassade,1,11.861324,-15.583055,GW,yes,,
 Georgetown,Georgetown,Georgetown,جورج تاون,capitale,3,6.80197369275,-58.1670286475,GY,yes,,Q10717
