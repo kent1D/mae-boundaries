@@ -87,6 +87,7 @@ Quito,Quito,Quito,كيتو,ambassade,1,-0.2201641,-78.5123274,EC,yes,,
 Tallinn,Tallinn,Tallinn,تالين,ambassade,1,59.4372155,24.7453688,EE,yes,,
 القاهرة,Le Caire,Cairo,القاهرة,ambassade,1,30.048819,31.243666,EG,yes,S,
 Alessandria,Alexandrie,Alessandria,الإسكندرية,consulat_general,4,31.19900,29.89344,EG,no,,
+مصر الجديدة,Héliopolis,Heliopolis,مصر الجديدة,institut_francais_antenne,7,30.10064,31.33251,EG,no,,
 أسمرة አስመራ,Asmara,Asmara,أسمرا,ambassade,1,15.338997,38.9326719,ER,yes,,
 Madrid,Madrid,Madrid,مدريد,ambassade,1,40.4167047,-3.7035825,ES,yes,,Q2807
 Barcelona,Barcelone,Barcelona,برشلونة,consulat_general,4,41.3828939,2.1774322,ES,no,,Q1492
@@ -262,7 +263,9 @@ Lomé,Lomé,Lomé,لومي,ambassade,1,6.130419,1.215829,TG,yes,N,
 Душанбе,Douchanbé,Dushanbe,دوشنبه,ambassade,1,38.5762709,68.7863573,TJ,yes,,
 Dili,Dili,Dili,ديلي,capitale,3,-8.55938840855,125.579455932,TL,yes,,Q9310
 Aşgabat,Achgabat,Ashgabat,عشق آباد,ambassade,1,37.9396678,58.3874263,TM,yes,,
-تونس,Tunis,Tunis,تونس,ambassade,1,36.800108,10.184794,TN,yes,,
+تونس,Tunis,Tunis,تونس,ambassade,1,36.800108,10.184794,TN,yes,,Q3572
+سوسة,Sousse,Sousse,سوسة,institut_francais_antenne,7,35.82883,10.64053,TN,no,,Q180717
+صفاقس,Sfax,Sfax,صفاقس,institut_francais_antenne,7,34.73974,10.75985,TN,no,,Q46325
 Nukuʻalofa,Nuku’alofa,Nuku’alofa,نوكو ألوفا,capitale,3,-21.1385123567,-175.220564478,TO,yes,,Q38834
 Ankara,Ankara,Ankara,أنقرة,ambassade,1,39.9215219,32.8537929,TR,yes,,
 İstanbul,Istanbul,Istanbul,إسطنبول,consulat_general,4,41.0096334,28.9651646,TR,no,,
