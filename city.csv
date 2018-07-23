@@ -75,19 +75,19 @@ München,Munich,Munich,ميونخ,consulat_general,4,48.1371079,11.5753822,DE,no
 Saarbrücken,Sarrebruck,Saarbrücken,ساربروكن,consulat_general,4,49.234362,6.996379,DE,no,NE,Q1724
 Stuttgart,Stuttgart,Stuttgart,شتوتغارت,consulat_general,4,48.7784485,9.1800132,DE,no,S,Q1022
 Bremen,Brême,Bremen,بريمن,institut_francais_antenne,7,53.07582,8.80716,DE,no,,Q24879
-Magdeburg,Magdebourg,Magdeburg,ماغدبورغ,institut_francais_antenne,7,52.13159,11.63996,DE,no,,Q1733
 Dresden,Dresde,Dresden,دريسدن,institut_francais_antenne,7,51.04933,13.73814,DE,no,,Q1731
-Leipzig,Leipzig,Leipzig,لايبزيغ,institut_francais_antenne,7,51.33918,12.38105,DE,no,,Q2079
-Köln,Cologne,Cologne,كولونيا,institut_francais_antenne,7,50.93836,6.95997,DE,no,,Q365
 Erfurt,Erfurt,Erfurt,إرفورت,institut_francais_antenne,7,50.97780,11.02874,DE,no,,Q1729
+Köln,Cologne,Cologne,كولونيا,institut_francais_antenne,7,50.93836,6.95997,DE,no,,Q365
+Leipzig,Leipzig,Leipzig,لايبزيغ,institut_francais_antenne,7,51.33918,12.38105,DE,no,,Q2079
+Magdeburg,Magdebourg,Magdeburg,ماغدبورغ,institut_francais_antenne,7,52.13159,11.63996,DE,no,,Q1733
 Mainz,Mayence,Mainz,ماينتس,institut_francais_antenne,7,50.00000,8.27102,DE,no,,Q1720
 Aachen,Aix-la-Chapelle,Aachen,آخن,centre_franco_xxx,8,50.77635,6.08386,DE,no,,Q1017
 Bonn,Bonn,Bonn,بون,centre_franco_xxx,8,50.73585,7.09972,DE,no,,Q586
-Essen,Essen,Essen,إسن,centre_franco_xxx,8,51.45709,7.01049,DE,no,,Q2066
 Erlangen,Erlangen,Erlangen,إرلنغن,centre_franco_xxx,8,49.59812,11.00271,DE,no,,Q3126
-Karlsruhe,Karlsruhe,Karlsruhe,كارلسروه,centre_franco_xxx,8,49.00687,8.40342,DE,no,,Q1040
-Heidelberg,Heidelberg,Heidelberg,هايدلبرغ,centre_franco_xxx,8,49.40936,8.69379,DE,no,,Q2966
+Essen,Essen,Essen,إسن,centre_franco_xxx,8,51.45709,7.01049,DE,no,,Q2066
 Hannover,Hanovre,Hanover,هانوفر,centre_franco_xxx,8,52.37448,9.73855,DE,no,,Q17151
+Heidelberg,Heidelberg,Heidelberg,هايدلبرغ,centre_franco_xxx,8,49.40936,8.69379,DE,no,,Q2966
+Karlsruhe,Karlsruhe,Karlsruhe,كارلسروه,centre_franco_xxx,8,49.00687,8.40342,DE,no,,Q1040
 Djibouti جيبوتي,Djibouti,Djibouti,جيبوتي,ambassade,1,11.593665,43.14724,DJ,yes,,
 København,Copenhague,Copenhagen,كوبنهاغن,ambassade,1,55.6867243,12.5700724,DK,yes,SW,
 Santo Domingo,Saint-Domingue,Santo Domingo,سانتو دومينجو,ambassade,1,18.4801972,-69.942111,DO,yes,,
@@ -144,8 +144,8 @@ Dublin,Dublin,Dublin,دبلن,ambassade,1,53.3497645,-6.2602732,IE,yes,,
 תל אביב-יפו,Tel-Aviv-Jaffa,Tel Aviv-Yafo,تل أبيب-يافا,ambassade,1,32.0804808,34.7805274,IL,yes,N,Q33935
 ירושלים,Jérusalem,Jerusalem,القدس,consulat_general,4,31.7791134,35.2266286,IL,no,SW,Q1218
 חיפה,Haïfa,Haifa,حيفا,consulat,5,32.8191218,34.9983856,IL,no,,Q41621
-الناصرة,Nazareth,Nazareth,الناصرة,institut_francais_antenne,7,32.70653,35.30448,IL,no,,Q430776
 באר שבע,Beer Sheva,Beer-Sheva,بئر السبع,institut_francais_antenne,7,31.25252,34.79058,IL,no,,Q41843
+الناصرة,Nazareth,Nazareth,الناصرة,institut_francais_antenne,7,32.70653,35.30448,IL,no,,Q430776
 New Delhi,New delhi,New Delhi,دلهي الجديد,ambassade,1,28.6141793,77.2022662,IN,yes,N,
 Bengaluru,Bangalore,Bengaluru,بنغالور,consulat_general,4,12.9791198,77.5912997,IN,no,,
 Kolkata,Calcutta,Kolkata,كلكتا,consulat_general,4,22.5677459,88.3476023,IN,no,NW,
@@ -164,13 +164,13 @@ Kingston,Kingston,Kingston,كينغستون,ambassade,1,17.97121,-76.79375,JM,ye
 عمان‎,Amman,Amman,عمان,ambassade,1,31.9515694,35.9239625,JO,yes,SE,
 東京,Tokyo,Tokyo,طوكيو,ambassade,1,35.6828378,139.7589667,JP,yes,,Q1490
 京都市,Kyoto,Kyoto,كيوتو,consulat_general,4,35.0185804,135.763835,JP,no,,Q34600
-福岡市,Fukuoka,Fukuoka,فوكوكا,institut_francais_antenne,7,33.58616,130.39353,JP,no,,Q26600
-横浜市,Yokohama,Yokohama,يوكوهاما,institut_francais_antenne,7,35.44499,139.63583,JP,no,,Q38283
 大阪市,Osaka,Osaka,أوساكا,institut_francais_antenne,7,34.70437,135.50189,JP,no,SW,Q35765
-札幌市,Sapporo,Sapporo,سابورو,alliance_francaise,8,43.04477,141.33627,JP,no,,Q37951
+横浜市,Yokohama,Yokohama,يوكوهاما,institut_francais_antenne,7,35.44499,139.63583,JP,no,,Q38283
+福岡市,Fukuoka,Fukuoka,فوكوكا,institut_francais_antenne,7,33.58616,130.39353,JP,no,,Q26600
 仙台市,Sendai,Sendai,سنداي,alliance_francaise,8,38.26776,140.86915,JP,no,,Q46747
 名古屋市,Nagoya,Nagoya,ناغويا,alliance_francaise,8,35.15792,136.90448,JP,no,,Q11751
 徳島市,Tokushima,Tokushima,توكوشيما,alliance_francaise,8,34.06983,134.55410,JP,no,SW,Q207309
+札幌市,Sapporo,Sapporo,سابورو,alliance_francaise,8,43.04477,141.33627,JP,no,,Q37951
 Nairobi,Nairobi,Nairobi,نيروبي,ambassade,1,-1.2832533,36.8172449,KE,yes,,
 Бишкек,Bichkek,Bishkek,بيشكك,ambassade,1,42.8767446,74.6069949,KG,yes,,
 រាជធានីភ្នំពេញ,Phnom Penh,Phnom Penh,بنوم بنه,ambassade,1,11.568271,104.9224426,KH,yes,,
@@ -183,14 +183,14 @@ Basseterre,Basseterre,Basseterre,باستير,capitale,3,17.3020304555,-62.71700
 Алматы,Almaty,Almaty,ألماتي,consulat_general,4,43.2363924,76.9457275,KZ,no,,
 ວຽງຈັນ,Vientiane,Vientiane,فيينتيان,ambassade,1,17.9640988,102.6133707,LA,yes,,
 بيروت,Beyrouth,Beirut,بيروت,ambassade,1,33.8959203,35.47843,LB,yes,,Q3820
-بعلبك,Baalbek,Baalbek,بعلبك,institut_francais_antenne,7,34.00965,36.21077,LB,no,,Q178835
-دير القمر‎‎,Deir el Qamar,Deir el Qamar,دير القمر‎‎,institut_francais_antenne,7,33.69790,35.56485,LB,no,,Q613943
-جونيه,Jounieh,Jounieh,جونيه,institut_francais_antenne,7,33.97415,35.62006,LB,no,,Q26155
 النبطية,Nabatieh,Nabatieh,النبطية,institut_francais_antenne,7,33.38113,35.48260,LB,no,,Q26134
+بعلبك,Baalbek,Baalbek,بعلبك,institut_francais_antenne,7,34.00965,36.21077,LB,no,,Q178835
+جونيه,Jounieh,Jounieh,جونيه,institut_francais_antenne,7,33.97415,35.62006,LB,no,,Q26155
+دير القمر‎‎,Deir el Qamar,Deir el Qamar,دير القمر‎‎,institut_francais_antenne,7,33.69790,35.56485,LB,no,,Q613943
+زحلة,Zahlé,Zahlé,زحلة,institut_francais_antenne,7,33.84756,35.90271,LB,no,,Q26569
+صور,Tyr,Tyre,صور,institut_francais_antenne,7,33.27212,35.19640,LB,no,,Q82070
 صيدا,Saida,Saida,صيدا,institut_francais_antenne,7,33.56142,35.37661,LB,no,,Q163490
 طرابلس,Tripoli,Tripoli,طرابلس,institut_francais_antenne,7,34.4454,35.8186,LB,no,,Q168954
-صور,Tyr,Tyre,صور,institut_francais_antenne,7,33.27212,35.19640,LB,no,,Q82070
-زحلة,Zahlé,Zahlé,زحلة,institut_francais_antenne,7,33.84756,35.90271,LB,no,,Q26569
 Castries,Castries,Castries,كاستريس,ambassade,1,14.00977,-60.98998,LC,no,,
 Vaduz,Vaduz,Vaduz,فادوتس,ambassade,1,47.1362,9.5358,LI,yes,,
 Colombo,Colombo,Colombo,كولمبو,ambassade,1,6.9349969,79.8538463,LK,yes,NW,Q35381
@@ -208,8 +208,8 @@ Fès ⴼⴰⵙ فاس,Fès,Fes,فاس,consulat_general,4,34.0346534,-5.0161926,M
 Marrakech ⵎⵕⵕⴰⴽⵛ مراكش,Marrakech,Marrakesh,مراكش,consulat_general,4,31.6259901,-7.9886083,MA,no,,Q101625
 Tanger ⵟⴰⵏⵊⴰ طنجة,Tanger,Tangier,طنجة,consulat_general,4,35.777103,-5.803792,MA,no,SW,Q126148
 El Jadida ⵊⴷⵉⴷⴰ الجديدة,El Jadida,El Jadida,الجديدة,institut_francais_antenne,7,33.24333,-8.49884,MA,no,S,Q219583
-Kénitra ⵇⵏⵉⵟⵔⴰ القنيطرة,Kénitra,Kenitra,القنيطرة,institut_francais_antenne,7,34.26457,-6.57017,MA,no,,Q478207
 Essaouira ⵚⵚⵡⵉⵕⴰ الصويرة,Essaouira,Essaouira,الصويرة,institut_francais_antenne,7,31.51183,-9.76209,MA,no,,Q216939
+Kénitra ⵇⵏⵉⵟⵔⴰ القنيطرة,Kénitra,Kenitra,القنيطرة,institut_francais_antenne,7,34.26457,-6.57017,MA,no,,Q478207
 Meknès ⴰⵎⴽⵏⴰⵙ مكناس,Meknès,Meknès,مكناس,institut_francais_antenne,7,33.89781,-5.53198,MA,no,,Q178663
 Oujda ⵡⵊⴷⴰ وجدة‎,Oujda,Oujda,وجدة‎,institut_francais_antenne,7,34.67787,-1.92931,MA,no,,Q193802
 Tétouan ⵜⵉⵟⵟⴰⵡⵉⵏ تطوان,Tétouan,Tétouan,تطوان,institut_francais_antenne,7,35.57017,-5.37428,MA,no,,Q185157
@@ -253,9 +253,9 @@ Manila,Manille,Manila,مانيلا,ambassade,1,14.5906216,120.9799696,PH,yes,,
 کراچی,Karachi,Karachi,كراتشي,consulat_general,4,24.8667795,67.0311286,PK,no,,
 Warszawa,Varsovie,Warsaw,وارسو,ambassade,1,52.2319237,21.0067265,PL,yes,,
 Kraków,Cracovie,Krakow,كراكوف,consulat_general,4,50.0619474,19.9368564,PL,no,,
+رام الله,Ramallah,Ramallah,رام الله,institut_francais_antenne,7,31.90308,35.19517,PS,no,,Q158119
 غزة,Gaza,Gaza,غزة,institut_francais_antenne,7,31.5077213,34.46074,PS,no,,Q47492
 نابلس,Naplouse,Nablus,نابلس,institut_francais_antenne,7,32.22010,35.25704,PS,no,,Q214178
-رام الله,Ramallah,Ramallah,رام الله,institut_francais_antenne,7,31.90308,35.19517,PS,no,,Q158119
 Lisboa,Lisbonne,Lisbon,أشبونة,ambassade,1,38.7077926,-9.1365061,PT,yes,,
 Melekeok,Melekeok,Melekeok,ميلكيوك,capitale,3,7.48739617298,134.626548467,PW,yes,,Q154002
 Asunción,Assomption,Asuncion,أسونسيون,ambassade,1,-25.2959916,-57.6311196,PY,yes,,
