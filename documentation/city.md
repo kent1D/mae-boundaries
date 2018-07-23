@@ -27,4 +27,5 @@
 | institut_francais         | At least one french institute is in the city                 | 6               |
 | institut_francais_antenne | At least one french institute office is in the city          | 7               |
 | alliance_francaise        | At least one "Alliance française" is in the city             | 8               |
+| centre_franco_xxx         | At least one mixed cultural center (eg: Centre franco-allemand) | 8               |
 
