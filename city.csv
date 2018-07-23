@@ -18,12 +18,14 @@ Mostar,Mostar,Mostar,موستار,institut_francais_antenne,7,43.34161,17.80211,
 Bridgetown,Bridgetown,Bridgetown,بريدج تاون,capitale,3,13.1020025828,-59.6165267351,BB,yes,,Q36168
 ঢাকা,Dacca,Dhaka,دكا,ambassade,1,23.7593572,90.3788136,BD,yes,,
 Bruxelles - Brussel,Bruxelles,Brussels,بروكسل,ambassade,1,50.8465573,4.351697,BE,yes,N,
-Ouagadougou,Ouagadougou,Ouagadougou,واغادوغو,ambassade,1,12.368148,-1.527085,BF,yes,N,
+Ouagadougou,Ouagadougou,Ouagadougou,واغادوغو,ambassade,1,12.368148,-1.527085,BF,yes,N,Q3777
+Bobo-Dioulasso,Bobo-Dioulasso,Bobo-Dioulasso,بوبو ديولاسو,institut_francais_antenne,7,11.17578,-4.29670,BF,no,,Q223761
 София,Sofia,Sofia,صوفيا,ambassade,1,42.6978634,23.3221789,BG,yes,,
 المنامة,Manama,Manama,المنامة,ambassade,1,26.2235041,50.5822436,BH,yes,,
 Bujumbura,Bujumbura,Bujumbura,بوجومبورا,ambassade,1,-3.3638125,29.3675028,BI,yes,,
 Cotonou,Cotonou,Cotonou,كوتونو,ambassade,1,6.367682,2.4252292,BJ,no,S,Q43595
 Porto-Novo,Porto-Novo,Porto-Novo,بورتو_نوفو,capitale,3,6.48331097302,2.6166255276,BJ,yes,,Q3799
+Parakou,Parakou,Parakou,باراكو,institut_francais_antenne,7,9.34002,2.62689,BJ,no,,Q688324
 Bandar Seri Begawan,Bandar Seri Begawan,Bandar Seri Begawan,بندر سري بكاوان,ambassade,1,4.8895453,114.9417574,BN,yes,,
 La Paz,La Paz,La Paz,لاباز,ambassade,1,-16.4956371,-68.1336346,BO,no,,
 Sucre,Sucre,Sucre,سوكري,capitale,3,-19.0409708467,-65.2595156267,BO,yes,,Q2907
@@ -42,7 +44,10 @@ Moncton,Moncton,Moncton,مونكتون,consulat_general,4,46.097995,-64.80011,CA
 Toronto,Toronto,Toronto,تورونتو,consulat_general,4,43.653963,-79.387207,CA,no,,
 Vancouver,Vancouver,Vancouver,فانكوفر,consulat_general,4,49.262428,-123.11554,CA,no,,
 Ville de Québec,Québec,Quebec,كويبك سيتي,consulat_general,4,46.8259601,-71.2352226,CA,no,,
-Kinshasa,Kinshasa,Kinshasa,كينشاسا,ambassade,1,-4.3217055,15.3125974,CD,yes,,
+Kinshasa,Kinshasa,Kinshasa,كينشاسا,ambassade,1,-4.3217055,15.3125974,CD,yes,,Q3838
+Bukavu,Bukavu,Bukavu,بوكافو,institut_francais_antenne,7,-2.50558,28.85855,CD,no,,Q222279
+Goma,Goma,Goma,غوما,institut_francais_antenne,7,-1.66657,29.22471,CD,no,,Q204381
+Lubumbashi,Lubumbashi,Lubumbashi,لوبومباشي,institut_francais_antenne,7,-11.66423,27.48169,CD,no,,Q187593
 Bangui,Bangui,Bangui,بانغي,ambassade,1,4.3907153,18.5509126,CF,yes,NW,
 Brazzaville,Brazzaville,Brazzaville,برازافيل,ambassade,1,-4.2694407,15.2712256,CG,yes,NW,
 Pointe-Noire,Pointe-Noire,Pointe-Noire,بوانت نوار,consulat_general,4,-4.7975373,11.8503297,CG,no,,
@@ -290,7 +295,8 @@ Ljubljana,Ljubljana,Ljubljana,ليوبليانا,ambassade,1,46.049865,14.506892
 Bratislava,Bratislava,Bratislava,براتيسلافا,ambassade,1,48.1516916,17.1093063,SK,yes,,
 Freetown,Freetown,Freetown,فريتاون,capitale,3,8.47001141249,-13.2342157404,SL,yes,,Q1044
 San Marino,Saint-Marin,San Marino,مدينة سان مارينو,capitale,3,43.9171500845,12.4666702867,SM,yes,,Q1848
-Dakar,Dakar,Dakar,دكار,ambassade,1,14.693425,-17.447938,SN,yes,,
+Dakar,Dakar,Dakar,دكار,ambassade,1,14.693425,-17.447938,SN,yes,,Q3718
+Saint-Louis,Saint-Louis,Saint-Louis,سانت لويس,institut_francais_antenne,7,16.02804,-16.50581,SN,no,,Q273779
 Muqdisho مقديشو,Mogadiscio,Mogadishu,مقديشو,ambassade,1,2.042778,45.338564,SO,yes,NE,
 Paramaribo,Paramaribo,Paramaribo,باراماريبو,ambassade,1,5.8216198,-55.1771974,SR,yes,,
 Djouba,Djouba,Djouba,جوبا,ambassade,1,4.8457,31.5843,SS,yes,,
