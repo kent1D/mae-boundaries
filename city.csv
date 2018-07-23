@@ -178,7 +178,9 @@ Kingston,Kingston,Kingston,كينغستون,ambassade,1,17.97121,-76.79375,JM,ye
 札幌市,Sapporo,Sapporo,سابورو,alliance_francaise,8,43.04477,141.33627,JP,no,,Q37951
 Nairobi,Nairobi,Nairobi,نيروبي,ambassade,1,-1.2832533,36.8172449,KE,yes,,
 Бишкек,Bichkek,Bishkek,بيشكك,ambassade,1,42.8767446,74.6069949,KG,yes,,
-រាជធានីភ្នំពេញ,Phnom Penh,Phnom Penh,بنوم بنه,ambassade,1,11.568271,104.9224426,KH,yes,,
+រាជធានីភ្នំពេញ,Phnom Penh,Phnom Penh,بنوم بنه,ambassade,1,11.568271,104.9224426,KH,yes,,Q1850
+ក្រុងបាត់ដំបង,Battambang,Battambang,باتامبانج,institut_francais_antenne,7,13.09985,103.19573,KH,no,,Q748336
+ក្រុងសៀមរាប,Siem Reap,Siem Reap,سيام ريب,institut_francais_antenne,7,13.36176,103.85809,KH,no,,Q11711
 Moroni موروني,Moroni,Moroni,موروني,ambassade,1,-11.6931255,43.2543044,KM,yes,,
 Basseterre,Basseterre,Basseterre,باستير,capitale,3,17.3020304555,-62.7170093197,KN,yes,,Q41295
 평양,PyongYang,Pyongyang,بيونغيانغ,bureau,3,39.0194741,125.753388,KP,yes,,
@@ -186,7 +188,8 @@ Basseterre,Basseterre,Basseterre,باستير,capitale,3,17.3020304555,-62.71700
 مدينة الكويت,Koweït,Kuwait City,مدينة الكويت,ambassade,1,29.3797091,47.9735629,KW,yes,,
 Астана,Astana,Astana,أستانا,ambassade,1,51.128258,71.43055,KZ,yes,,
 Алматы,Almaty,Almaty,ألماتي,consulat_general,4,43.2363924,76.9457275,KZ,no,,
-ວຽງຈັນ,Vientiane,Vientiane,فيينتيان,ambassade,1,17.9640988,102.6133707,LA,yes,,
+ວຽງຈັນ,Vientiane,Vientiane,فيينتيان,ambassade,1,17.9640988,102.6133707,LA,yes,,Q9326
+ຫຼວງພະບາງ,Luang Prabang,Luang Prabang,لوانغ برابانغ,centre_franco_xxx,8,19.88874,102.13496,LA,no,,Q190165
 بيروت,Beyrouth,Beirut,بيروت,ambassade,1,33.8959203,35.47843,LB,yes,,Q3820
 النبطية,Nabatieh,Nabatieh,النبطية,institut_francais_antenne,7,33.38113,35.48260,LB,no,,Q26134
 بعلبك,Baalbek,Baalbek,بعلبك,institut_francais_antenne,7,34.00965,36.21077,LB,no,,Q178835
@@ -330,6 +333,8 @@ Kingstown,Kingstown,Kingstown,كينغستاون,capitale,3,13.1482788279,-61.21
 Caracas,Caracas,Caracas,كراكاس,ambassade,1,10.506098,-66.9146017,VE,yes,,
 Hà Nội,Hanoï,Hanoi,هانوي,ambassade,1,21.0292095,105.85247,VN,yes,,Q1858
 Thành phố Hồ Chí Minh,Hô-Chi-Minh-Ville,Ho Chi Minh City,مدينة هو تشي منه,consulat_general,4,10.7758439,106.7017555,VN,no,,Q1854
+Đà Nẵng,Danang,Danang,دا نانغ,institut_francais_antenne,7,16.06798,108.21100,VN,no,,Q25282
+Huế,Hué,Hue,هوي,institut_francais_antenne,7,16.46909,107.57682,VN,no,,Q36167
 Port Vila,Port-Vila,Port Vila,بورت فيلا,ambassade,1,-17.7414972,168.3150163,VU,yes,,
 Vaiaku,Vaiaku,Vaiaku,فاياكو,capitale,3,-8.51665199904,179.216647094,VU,yes,,Q248201
 Apia,Apia,Apia,أبيا,capitale,3,-13.8415450424,-171.738641609,WS,yes,,Q36260
