@@ -155,8 +155,15 @@ Firenze,Florence,Florence,فلورنسا,institut_francais,7,43.76987,11.25463,I
 Palermo,Palerme,Palermo,باليرمو,institut_francais,7,38.11123,13.35151,IT,no,,Q2656
 Kingston,Kingston,Kingston,كينغستون,ambassade,1,17.97121,-76.79375,JM,yes,S,
 عمان‎,Amman,Amman,عمان,ambassade,1,31.9515694,35.9239625,JO,yes,SE,
-東京,Tokyo,Tokyo,طوكيو,ambassade,1,35.6828378,139.7589667,JP,yes,,
-京都市,Kyoto,Kyoto,كيوتو,consulat_general,4,35.0185804,135.763835,JP,no,,
+東京,Tokyo,Tokyo,طوكيو,ambassade,1,35.6828378,139.7589667,JP,yes,,Q1490
+京都市,Kyoto,Kyoto,كيوتو,consulat_general,4,35.0185804,135.763835,JP,no,,Q34600
+福岡市,Fukuoka,Fukuoka,فوكوكا,institut_francais_antenne,7,33.58616,130.39353,JP,no,,Q26600
+横浜市,Yokohama,Yokohama,يوكوهاما,institut_francais_antenne,7,35.44499,139.63583,JP,no,,Q38283
+大阪市,Osaka,Osaka,أوساكا,institut_francais_antenne,7,34.70437,135.50189,JP,no,SW,Q35765
+札幌市,Sapporo,Sapporo,سابورو,alliance_francaise,8,43.04477,141.33627,JP,no,,Q37951
+仙台市,Sendai,Sendai,سنداي,alliance_francaise,8,38.26776,140.86915,JP,no,,Q46747
+名古屋市,Nagoya,Nagoya,ناغويا,alliance_francaise,8,35.15792,136.90448,JP,no,,Q11751
+徳島市,Tokushima,Tokushima,توكوشيما,alliance_francaise,8,34.06983,134.55410,JP,no,SW,Q207309
 Nairobi,Nairobi,Nairobi,نيروبي,ambassade,1,-1.2832533,36.8172449,KE,yes,,
 Бишкек,Bichkek,Bishkek,بيشكك,ambassade,1,42.8767446,74.6069949,KG,yes,,
 រាជធានីភ្នំពេញ,Phnom Penh,Phnom Penh,بنوم بنه,ambassade,1,11.568271,104.9224426,KH,yes,,
