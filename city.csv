@@ -127,7 +127,12 @@ Tegucigalpa,Tegucigalpa,Tegucigalpa,تيجوسيجالبا,ambassade,1,14.093191
 Zagreb,Zagreb,Zagreb,زغرب,ambassade,1,45.813177,15.977048,HR,yes,E,
 Port-au-Prince,Port-au-Prince,Port-au-Prince,بورت أو برنس,ambassade,1,18.547327,-72.3395928,HT,yes,S,
 Budapest,Budapest,Budapest,بودابست,ambassade,1,47.4983815,19.0404707,HU,yes,,
-Jakarta,Jakarta,Jakarta,جاكرتا,ambassade,1,-6.1753942,106.827183,ID,yes,,
+Jakarta,Jakarta,Jakarta,جاكرتا,ambassade,1,-6.1753942,106.827183,ID,yes,,Q3630
+Bandung,Bandung,Bandung,باندونغ,institut_francais_antenne,7,-6.93447,107.60495,ID,no,,Q10389
+Surabaya,Surabaya,Surabaya,سورابايا,institut_francais_antenne,7,-7.24597,112.73783,ID,no,,Q11462
+Yogyakarta,Yogyakarta,Yogyakarta,يوغياكارتا,institut_francais_antenne,7,-7.80119,110.36492,ID,no,,Q7568
+Denpasar,Denpasar,Denpasar,دنباسار,alliance_francaise,8,-8.65250,115.21912,ID,no,,Q11506
+Medan,Medan,Medan,ميدان,alliance_francaise,8,3.58967,98.67289,ID,no,,Q5972
 Dublin,Dublin,Dublin,دبلن,ambassade,1,53.3497645,-6.2602732,IE,yes,,
 תל אביב-יפו,Tel-Aviv-Jaffa,Tel Aviv-Yafo,تل أبيب-يافا,ambassade,1,32.0804808,34.7805274,IL,yes,N,Q33935
 ירושלים,Jérusalem,Jerusalem,القدس,consulat_general,4,31.7791134,35.2266286,IL,no,SW,Q1218
